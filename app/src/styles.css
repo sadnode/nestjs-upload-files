@@ -1,0 +1,18 @@
+ul {
+    margin: 0;
+}
+
+.dropzone {
+    text-align: center;
+    padding: 20px;
+    border: 3px dashed #eeeeee;
+    background-color: #fafafa;
+    color: #bdbdbd;
+
+    margin-bottom: 20px;
+}
+
+.dropzone:hover {
+    border-color: #b0f3b0;
+}
+  
